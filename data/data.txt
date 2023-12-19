@@ -1,0 +1,19 @@
+id: 1
+user1:ant
+pass1:pom
+
+id: 2
+user2:pencho
+pass2:slaveikov
+
+id: 3
+user3:pin
+pass3:gvin
+
+id: 4
+user4:password
+pass4:user
+
+id: 5
+user5:red
+pass5:blue
